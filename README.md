@@ -2,7 +2,10 @@
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 ---
 <h3 align="left">:mega: About me:</h3>
-<h6>:white_circle:</h6>
-- Уровень списка 1. Пункт 1.
-- Уровень списка 1. Пункт 2.
-- Уровень списка 1. Пункт 3.
+ <body> 
+  <ul>
+    <li>:desktop_computer:Game and application development</li>
+    <li>:mag:In my free time, I training in new technologies</li>
+    <li>:e-mail:How to reach me:<a href="mailto:olejnikov-1998@inbox.ru">olejnikov-1998@inbox.ru</a></li>
+  </ul>
+ </body>
