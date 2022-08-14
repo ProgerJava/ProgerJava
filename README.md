@@ -1,3 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=800080&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=735&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%BD%D0%B0+%D1%81%D0%B2%D0%BE%D0%B5%D0%B9+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5%2C;%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%2C+%D0%B8+%D1%8F++Android+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=800080&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=735&height=100&lines=Hey+there%2C;my+name+is+Andrey+and+I+am+an+android+developer" alt="Typing SVG" /></a>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-<h3 align="left">Обо мне:</h3>
+---
+<h3 align="left">:mega: About me:</h3>
+<h6>:white_circle:</h6>
+- Уровень списка 1. Пункт 1.
+- Уровень списка 1. Пункт 2.
+- Уровень списка 1. Пункт 3.
