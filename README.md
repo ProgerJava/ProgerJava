@@ -6,8 +6,11 @@
 <ul>
     <li>:desktop_computer:Game and application development</li>
     <li>:mag:In my free time, I training in new technologies</li>
-    <li>:e-mail:How to reach me:<a href="mailto:olejnikov-1998@inbox.ru">olejnikov-1998@inbox.ru</a></li>
+         
 </ul>
+<h3 align="left">:e-mail:How to reach me:</h3>
+ <li><a href="mailto:olejnikov-1998@inbox.ru">olejnikov-1998@inbox.ru</a></li>
+ <li><a href="@Oleynikovv_Andrey">@Oleynikovv_Andrey</a></li>
 
 ---
 
