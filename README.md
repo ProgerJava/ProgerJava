@@ -10,7 +10,7 @@
 </ul>
 <h3 align="left">:e-mail:How to reach me:</h3>
  <li><a href="mailto:olejnikov-1998@inbox.ru">olejnikov-1998@inbox.ru</a></li>
- <li><a href="@Oleynikovv_Andrey">@Oleynikovv_Andrey</a></li>
+ <li>Telegram: <a href="@Oleynikovv_Andrey">@Oleynikovv_Andrey</a></li>
 
 ---
 
