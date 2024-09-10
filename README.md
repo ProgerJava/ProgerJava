@@ -4,7 +4,7 @@
 ---
 <h3 align="left">:mega: About me:</h3>  
 <ul>
-    <li>:desktop_computer:Game and application development</li>
+    <li>:desktop_computer:Mobile application developer for android system</li>
     <li>:mag:In my free time, I training in new technologies</li>
          
 </ul>
@@ -22,5 +22,7 @@
   <img src="https://libgdx.com/assets/brand/logo.svg" title="LibGDX"  alt="LibGDX" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" title="Jetpack Compose"  alt="Jetpack Compose" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/5808e4eb-64e5-4a28-ad7f-30b7cc3caf33" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+
 
 </div>
