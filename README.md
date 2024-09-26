@@ -11,6 +11,7 @@
 <h3 align="left">:e-mail:How to reach me:</h3>
  <li><a href="mailto:olejnikov-1998@inbox.ru">olejnikov-1998@inbox.ru</a></li>
  <li>Telegram: <a href="@Oleynikovv_Andrey">@Oleynikovv_Andrey</a></li>
+ <li>LinkedIn: <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%BE%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2/">Олейников Андрей</a></li>
 
 ---
 
@@ -18,11 +19,11 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" title="SQLite"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://libgdx.com/assets/brand/logo.svg" title="LibGDX"  alt="LibGDX" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" title="Jetpack Compose"  alt="Jetpack Compose" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/5808e4eb-64e5-4a28-ad7f-30b7cc3caf33" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-
-
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*950f3Af3pZ2O4KLdggj3Ow.png" title="Retrofit"  alt="Retrofit" width="80" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firabase"  alt="Firabase" width="80" height="40"/>&nbsp;
 </div>
