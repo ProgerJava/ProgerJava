@@ -27,5 +27,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*950f3Af3pZ2O4KLdggj3Ow.png" title="Retrofit"  alt="Retrofit" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firabase"  alt="Firabase" width="80" height="40"/>&nbsp;
   <img src= "https://github.com/user-attachments/assets/b729fd27-2c85-4bb9-a1e6-917e8532a1c9" title="Koin" alt="Koin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/82eeffa1-c135-424a-8d21-942c7b19ca21" title="Room"  alt="Room" width="80" height="40"/>&nbsp;
 
 </div>
